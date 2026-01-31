@@ -1,0 +1,16 @@
+name: Assignment Workflow
+
+on:
+  workflow_dispatch:  # allows manual run from the Actions tab
+  push:               # also run on every push to any branch
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: 23f3002599@ds.study.iitm.ac.in
+        run: echo "Hello, world! This is my assignment action."
