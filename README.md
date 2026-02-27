@@ -1,0 +1,1 @@
+[![Daily Auto Commit](https://github.com/23f3002599-sh/TDS_entrance_exam_question_24/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/23f3002599-sh/TDS_entrance_exam_question_24/actions/workflows/daily-commit.yml)
